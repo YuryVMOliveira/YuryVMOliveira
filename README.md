@@ -56,6 +56,12 @@ Ciências da Computação (2022 - atual)
 - [trilha-net-poo-desafio](https://github.com/YuryVMOliveira/trilha-net-poo-desafio)  
   Desafio de programação orientada a objetos em C#.
 
+- [Trabalho-01-CG](https://github.com/YuryVMOliveira/Trabalho-01-CG)  
+  Projeto de Computação Gráfica utilizando JavaScript e HTML para simulação e visualização de conceitos gráficos.
+
+- [Trabalho-de-OOB-Banco](https://github.com/Jeday03/Trabalho-de-OOB-Banco)  
+  Projeto colaborativo em Java para simulação de operações bancárias orientadas a objetos, com foco em modelagem e estruturação de sistemas.
+
 > _Veja todos os meus projetos na aba [Repositórios](https://github.com/YuryVMOliveira?tab=repositories)._
 
 ---
