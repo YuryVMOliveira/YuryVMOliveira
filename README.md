@@ -1,7 +1,7 @@
 # Yury Vieira Marques Oliveira
 
 **Desenvolvedor | Juiz de Fora, MG**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yury-oliveira-4a597125a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yury-vieira-marques-oliveira-4a397125a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/YuryVMOliveira)  
 E-mail: yuryolyv@gmail.com | (32) 99141-9141
 
@@ -69,7 +69,7 @@ Ciências da Computação (2022 - atual)
 ## 📫 Contato
 
 - E-mail: yuryolyv@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/yury-oliveira-4a597125a/)
+- [LinkedIn](https://www.linkedin.com/in/yury-vieira-marques-oliveira-4a397125a/)
 - [GitHub](https://github.com/YuryVMOliveira)
 
 ---
