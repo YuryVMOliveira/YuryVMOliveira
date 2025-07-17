@@ -68,7 +68,7 @@ Ciências da Computação (2022 - atual)
 
 ## 📫 Contato
 
-- E-mail: yuryolyv@gmail.com
+- E-mail: yuryolyvy@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/yury-vieira-marques-oliveira-4a397125a/)
 - [GitHub](https://github.com/YuryVMOliveira)
 
